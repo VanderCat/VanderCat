@@ -1,4 +1,4 @@
-I’m [@VanderCat](https://github.com/VanderCat/)
+I’m [@VanderCat](https://github.com/VanderCat/) AKA Влад Кот (Vlad Kot) 
  
 A lot of my project isnt about to be finished ever.
 
