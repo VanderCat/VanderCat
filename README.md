@@ -1,8 +1,8 @@
-**hello! i’m [@VanderCat](https://github.com/VanderCat/) AKA Влад Кот (Vlad Kot)**
+**hello! i’m [@VanderCat](https://github.com/VanderCat/)**
 
 i'm in love with Lua but have an affair with C# nevertheless i also use python, javascript and c/c++ in my projects!
 
-i do silly things, now mosly gamedev related stuff, like C# bindings of several C libs and [NekoLib](https://github.com/VanderCat/NekoLib), a backbone of two of my game engines: [NekoRay](https://github.com/LaTeamDev/NekoRay) and [Lamoon](https://github.com/VanderCat/LamoonEngine).
+i do silly things, now mostly gamedev related stuff, like C# bindings of several C libs and [NekoLib](https://github.com/VanderCat/NekoLib), a backbone of two of my game engines: [NekoRay](https://github.com/LaTeamDev/NekoRay) and [Lamoon](https://github.com/VanderCat/LamoonEngine).
 
 i'm only highly likely to respond you only in [telegram](https://t.me/VanderCat) if you would need me for some reason
 
